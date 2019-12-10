@@ -1,4 +1,6 @@
 # ts-vue-demo
+Vue3.0 前的 TypeScript 入门实践
+参考博客： https://juejin.im/post/5d0259f2518825405d15ae62#heading-37
 
 ## Project setup
 ```
@@ -27,8 +29,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-参考博客： https://juejin.im/post/5d0259f2518825405d15ae62#heading-37
 
 构建项目遇到的问题：
 
